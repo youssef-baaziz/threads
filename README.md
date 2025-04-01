@@ -23,7 +23,7 @@ L'exercice illustre le fonctionnement du multi-threading en Java en créant une 
 
 ### Exemple d'utilisation
 ```java
-public class Main {
+public class TalkativeMain {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
             Thread thread = new Thread(new Talkative(i));
@@ -77,6 +77,11 @@ L'utilisation d'un pool de threads permet une exécution plus rapide et efficace
 
 ## Captures d'écran
 Ajoutez ici des captures d'écran montrant l'exécution des programmes dans la console.
+- Talkative
+<img width="315" alt="Screenshot 2025-04-01 at 17 58 46" src="https://github.com/user-attachments/assets/426f0ebb-22e4-48c6-9c27-34d57e4e639a" />
+
+- Sommeur
+<img width="315" alt="Screenshot 2025-04-01 at 17 59 07" src="https://github.com/user-attachments/assets/c472af06-88c0-411b-af37-209bbcbdfded" />
 
 ---
 
