@@ -86,4 +86,4 @@ Ajoutez ici des captures d'écran montrant l'exécution des programmes dans la c
 ---
 
 ## Auteur
-Ce TP a été réalisé dans le cadre du cours de Programmation Orientée Objet Java 2023, encadré par **Mr. Abdelmajid BOUSSELHAM**.
+Ce TP a été encadré par **Mr. Abdelmajid BOUSSELHAM**.
